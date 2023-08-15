@@ -1,0 +1,48 @@
+# 软件配置文件
+www.guwuvpn.com:
+  # 软件授权密钥
+  license_key: "Zu4GFUb3i1BOvpcNcWkH6Fzx77X1ODK8gzjGSMTQKjXWFj9E8PYUoSx7WhwNkZ76BX26kMjYYzTT3VWuFayWpHROROwp50975Agw"
+  # 软件授权域名
+  domain: "https://www.guwuvpn.com"
+  # 定时到期时间
+  expiration_date: "2024-12-31"
+  
+  # 是否授权功能：帮助文档
+  enable_help_documentation: 1  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：三种代理模式
+  enable_proxy_modes: 1  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：客户端版权隐藏
+  enable_client_copyright_hide: 1  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：客户端版权自定广告位
+  enable_custom_advertisement: 1  # 可填值: 1 (已授权), 0 (未授权), 2 (Flou 提供的广告)
+  
+  # 是否授权功能：多域名
+  enable_multi_domain: 1  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：“我的”页面自定义功能栏
+  enable_custom_function_bar: 1  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：软件名称自定义
+  enable_custom_software_name: 1  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：软件LOGO自定义
+  enable_custom_logo: 1  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：内购
+  enable_in_app_purchase: 1  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：通知
+  enable_notifications: 1  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：滚动公告
+  enable_scroll_announcement: 1  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：节点标签
+  enable_node_labels: 1  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：自定义颜色
+  custom_colors: 1  # 可填值: 1 (已授权), 0 (未授权)
+  
