@@ -1,9 +1,21 @@
+# 免费版颜色
+freecolor:
+  loginPage: "#3570F0"    # 请填写登录页颜色配置
+  registerPage: "#3570F0"    # 请填写注册页颜色配置
+  storePackagePurchase: "#32A0FF"    # 请填写商店套餐购买颜色配置
+  storeOrderPage: "#32A0FF"    # 请填写商店下单页颜色配置
+  connectionSettingsPage: "#007EEA"    # 请填写连接设置页颜色配置
+  myPage: "#32A0FF"    # 请填写我的页面颜色配置
+  homePage: "#32A0FF"    # 请填写首页颜色配置
+  tabBarUnselected: "#E1F2FE"    # 请填写底部 tebber按钮未选中颜色配置
+  tabBarSelected: "#3570F0"    # 请填写底部 tebber按钮已选中颜色配置
+  
 # 软件配置文件
 www.guwuvpn.com:
   # 软件授权密钥
   license_key: "Zu4GFUb3i1BOvpcNcWkH6Fzx77X1ODK8gzjGSMTQKjXWFj9E8PYUoSx7WhwNkZ76BX26kMjYYzTT3VWuFayWpHROROwp50975Agw"
   # 软件授权域名
-  domain: "https://www.guwuvpn.com"
+  domain: "www.guwuvpn.com"
   # 定时到期时间
   expiration_date: "2024-12-31"
   
@@ -45,4 +57,53 @@ www.guwuvpn.com:
   
   # 是否授权功能：自定义颜色
   custom_colors: 1  # 可填值: 1 (已授权), 0 (未授权)
+
+# 软件配置文件
+vpn.anjianfu.xyz:
+  # 软件授权密钥
+  license_key: "cKRrwL5DuE563dCOGUIHgY235hwIIU8lpX7SSOAknYPYF9cZnQf0WARLEIGUl2HaiOAdAzEVvtS6XJeetPu4IDL42JhkGXrl2FGL"
+  # 软件授权域名
+  domain: "vpn.anjianfu.xyz"
+  # 定时到期时间
+  expiration_date: "2024-12-31"
+  
+  # 是否授权功能：帮助文档
+  enable_help_documentation: 0  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：三种代理模式
+  enable_proxy_modes: 0  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：客户端版权隐藏
+  enable_client_copyright_hide: 0  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：客户端版权自定广告位
+  enable_custom_advertisement: 0  # 可填值: 1 (已授权), 0 (未授权), 2 (Flou 提供的广告)
+  
+  # 是否授权功能：多域名
+  enable_multi_domain: 0  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：“我的”页面自定义功能栏
+  enable_custom_function_bar: 0  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：软件名称自定义
+  enable_custom_software_name: 0  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：软件LOGO自定义
+  enable_custom_logo: 0  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：内购
+  enable_in_app_purchase: 0  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：通知
+  enable_notifications: 0  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：滚动公告
+  enable_scroll_announcement: 0  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：节点标签
+  enable_node_labels: 0  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：自定义颜色
+  custom_colors: 0  # 可填值: 1 (已授权), 0 (未授权)
+  
   
