@@ -57,6 +57,9 @@ www.guwuvpn.com:
   
   # 是否授权功能：自定义颜色
   custom_colors: 1  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：注册
+  register: 1  # 可填值: 1 (已授权), 0 (未授权)
 
 # 软件配置文件
 vpn.anjianfu.xyz:
@@ -105,5 +108,8 @@ vpn.anjianfu.xyz:
   
   # 是否授权功能：自定义颜色
   custom_colors: 0  # 可填值: 1 (已授权), 0 (未授权)
+  
+  # 是否授权功能：注册
+  register: 1  # 可填值: 1 (已授权), 0 (未授权)
   
   
